@@ -1,0 +1,13 @@
+h1, .btn, table{
+    color: white;
+    text-align: center;
+}
+
+.anchor{
+    text-decoration: none;
+    text-align: center;
+}
+
+.body{
+    background-color: #111;
+}
